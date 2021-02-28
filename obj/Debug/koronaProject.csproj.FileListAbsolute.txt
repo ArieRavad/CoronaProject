@@ -1,0 +1,10 @@
+C:\Users\Arie\source\repos\koronaProject\bin\Debug\koronaProject.exe.config
+C:\Users\Arie\source\repos\koronaProject\bin\Debug\koronaProject.exe
+C:\Users\Arie\source\repos\koronaProject\bin\Debug\koronaProject.pdb
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.Form1.resources
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.Properties.Resources.resources
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.csproj.GenerateResource.cache
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.csproj.CoreCompileInputs.cache
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.exe
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.pdb
+C:\Users\Arie\source\repos\koronaProject\obj\Debug\koronaProject.csprojAssemblyReference.cache
